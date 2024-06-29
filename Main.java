@@ -1,5 +1,6 @@
 /*
  * Test the use of the Color method
+ * Completed the TODO part in the changeColor method in Color.java, and added the Makefile
  */
 import java.util.*;
 
